@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         MrGisterPlus
-// @namespace    https://github.com/thesavant42/MrGisterPlus
+// @namespace    https://github.com/thesavant42/mistergister
 // @version      1.5
-// @description  GitHub profile enhancer: social links, favicons, HuggingFace API, export tools. Built for profile OSINT legends 
+// @description  GitHub profile enhancer: social links, favicons, HuggingFace API, export tools. Built for profile OSINT legends 👑
 // @author       thesavant42
 // @match        https://github.com/*
-// @updateURL    https://raw.githubusercontent.com/thesavant42/mistergister/main/MrGisterPlus.user.js
-// @downloadURL  https://raw.githubusercontent.com/thesavant42/mistergister/main/MrGisterPlus.user.js
+// @updateURL    https://github.com/thesavant42/mistergister/raw/refs/heads/main/MrGisterPlus.user.js
+// @downloadURL  https://github.com/thesavant42/mistergister/raw/refs/heads/main/MrGisterPlus.user.js
 // @grant        none
 // ==/UserScript==
 
